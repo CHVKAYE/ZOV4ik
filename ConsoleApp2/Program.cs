@@ -9,6 +9,5 @@ class Programm
         int c = 2;
         int d = 3;
         Console.WriteLine((a + b) * c + d);
-        Console.WriteLine("Hello Negr");
     }
 }
