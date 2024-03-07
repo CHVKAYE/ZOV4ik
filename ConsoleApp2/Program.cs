@@ -8,6 +8,6 @@ class Programm
         int b = 7;
         int c = 2;
         int d = 3;
-        Console.WriteLine(a + b * c / d);
+        Console.WriteLine((a + b) * c + d);
     }
 }
